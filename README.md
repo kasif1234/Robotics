@@ -12,6 +12,8 @@ The system uses two Raspberry Pi 5 units:
 The controller Raspberry Pi reads PS5 controller inputs and sends real-time control data through WebSockets. The robot Raspberry Pi receives these commands, controls the DC motors and servo motors, and streams live camera frames back to the controller.
 
 ---
+https://www.youtube.com/watch?v=2dfTFchEuLg
+---
 
 ## Project Overview
 
