@@ -80,6 +80,9 @@ Live Video Stream to Controller Raspberry Pi
 
 <img width="551" height="735" alt="Image" src="https://github.com/user-attachments/assets/c42c2164-146d-4f6c-b1fe-08171d733057" />
 <img width="486" height="275" alt="Image" src="https://github.com/user-attachments/assets/68728d11-0163-4231-a799-23796238bc8c" />
+
+
+---
 ## Hardware Requirements
 
 - Raspberry Pi 5 x2
