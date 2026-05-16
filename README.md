@@ -79,7 +79,7 @@ Live Video Stream to Controller Raspberry Pi
 | Threading | Separates camera display from async communication |
 
 <img width="551" height="735" alt="Image" src="https://github.com/user-attachments/assets/c42c2164-146d-4f6c-b1fe-08171d733057" />
-<img width="486" height="275" alt="Image" src="https://github.com/user-attachments/assets/68728d11-0163-4231-a799-23796238bc8c" />
+
 
 
 ---
@@ -100,7 +100,7 @@ Live Video Stream to Controller Raspberry Pi
 - Common ground connection between control and power circuits
 
 ---
-
+<img width="486" height="275" alt="Image" src="https://github.com/user-attachments/assets/68728d11-0163-4231-a799-23796238bc8c" />
 ## Software Requirements
 
 Create a `requirements.txt` file with the following contents:
