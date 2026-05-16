@@ -101,6 +101,8 @@ Live Video Stream to Controller Raspberry Pi
 
 ---
 <img width="486" height="275" alt="Image" src="https://github.com/user-attachments/assets/68728d11-0163-4231-a799-23796238bc8c" />
+
+---
 ## Software Requirements
 
 Create a `requirements.txt` file with the following contents:
