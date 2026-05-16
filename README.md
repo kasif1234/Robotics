@@ -78,8 +78,8 @@ Live Video Stream to Controller Raspberry Pi
 | Asyncio | Handles concurrent network communication |
 | Threading | Separates camera display from async communication |
 
----
-
+<img width="551" height="735" alt="Image" src="https://github.com/user-attachments/assets/c42c2164-146d-4f6c-b1fe-08171d733057" />
+<img width="486" height="275" alt="Image" src="https://github.com/user-attachments/assets/68728d11-0163-4231-a799-23796238bc8c" />
 ## Hardware Requirements
 
 - Raspberry Pi 5 x2
@@ -445,7 +445,7 @@ A reliable system requires systematic debugging, not random trial and error.
 The best approach is to define the symptom, isolate variables, test one subsystem at a time, measure the output, verify the assumption, and then move to the next layer.
 
 ---
-
+<img width="950" height="305" alt="Image" src="https://github.com/user-attachments/assets/a09924b1-89e5-46d9-a8ef-be0d68858e25" />
 ## Future Improvements
 
 - Add wheel encoders for closed-loop speed feedback
@@ -458,6 +458,7 @@ The best approach is to define the symptom, isolate variables, test one subsyste
 - Improve modular code organization
 - Add unit tests for control logic
 - Add a configuration file for IP addresses and ports
+- PID Algorithmic Approach
 
 ---
 
