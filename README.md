@@ -2,6 +2,8 @@
 
 A Raspberry Pi 5 based embedded control system for remote navigation, live camera streaming, and servo-based object manipulation using a PS5 DualSense controller.
 
+<img width="1263" height="608" alt="Image" src="https://github.com/user-attachments/assets/aa273e03-87c7-44b1-903b-f616ac41f3c8" />
+
 The system uses two Raspberry Pi 5 units:
 
 - One Raspberry Pi 5 acts as the controller-side unit.
