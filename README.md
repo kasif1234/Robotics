@@ -452,6 +452,8 @@ The best approach is to define the symptom, isolate variables, test one subsyste
 ---
 <img width="950" height="305" alt="Image" src="https://github.com/user-attachments/assets/a09924b1-89e5-46d9-a8ef-be0d68858e25" />
 ---
+
+
 ## Future Improvements
 
 - Add wheel encoders for closed-loop speed feedback
