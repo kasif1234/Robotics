@@ -14,7 +14,7 @@ The controller Raspberry Pi reads PS5 controller inputs and sends real-time cont
 ---
 [Final_Robotics_Report.pdf](https://github.com/user-attachments/files/27852693/Final_Robotics_Report.pdf)
 ---
-[![Watch the video](https://youtube.com)](https://www.youtube.com/watch?v=2dfTFchEuLg)
+[![Watch the video](https://img.youtube.com/vi/2dfTFchEuLg/hqdefault.jpg)](https://www.youtube.com/watch?v=2dfTFchEuLg)
 ---
 
 ## Project Overview
